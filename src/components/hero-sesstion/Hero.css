@@ -1,0 +1,30 @@
+.hero-container{
+    background-image: url("https://img.freepik.com/premium-vector/global-education-student-exchange-cartoon-background-composition-with-text-famous-landmarks-sights-earth-globe-pupil-vector-illustration_1284-76754.jpg?w=1060");
+    background-image: url("https://img.freepik.com/free-vector/hand-drawn-study-abroad-horizontal-banner_23-2150310027.jpg?t=st=1728124465~exp=1728128065~hmac=bc8b325974ff8def0a130824713c54dd38985150c8ae429dac670e02c3400e50&w=1060");
+    background-size: 100% 100%;
+    height: 85vh;
+    background-repeat: no-repeat;
+}
+
+
+
+@media screen and (max-width:767px) {
+    .hero-container{
+        background-image: url("https://img.freepik.com/premium-vector/global-education-student-exchange-cartoon-background-composition-with-text-famous-landmarks-sights-earth-globe-pupil-vector-illustration_1284-76754.jpg?w=1060");
+        background-image: url("https://img.freepik.com/free-vector/hand-drawn-study-abroad-horizontal-banner_23-2150310027.jpg?t=st=1728124465~exp=1728128065~hmac=bc8b325974ff8def0a130824713c54dd38985150c8ae429dac670e02c3400e50&w=1060");
+        background-size: 100% 100%;
+        height: 35vh;
+        background-repeat: no-repeat;
+    }
+}
+
+
+@media screen and (min-width:768px) and (max-width:1023px) {
+    .hero-container{
+        background-image: url("https://img.freepik.com/premium-vector/global-education-student-exchange-cartoon-background-composition-with-text-famous-landmarks-sights-earth-globe-pupil-vector-illustration_1284-76754.jpg?w=1060");
+        background-image: url("https://img.freepik.com/free-vector/hand-drawn-study-abroad-horizontal-banner_23-2150310027.jpg?t=st=1728124465~exp=1728128065~hmac=bc8b325974ff8def0a130824713c54dd38985150c8ae429dac670e02c3400e50&w=1060");
+        background-size: 100% 100%;
+        height: 40vh;
+        background-repeat: no-repeat;
+    }
+}
